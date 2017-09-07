@@ -18,3 +18,10 @@ cabal.sandbox.config
 .stack-work/
 cabal.project.local
 .HTF/
+tex/paper/paper.lof
+tex/paper/paper.log
+tex/paper/paper.lot
+tex/paper/paper.out
+tex/paper/paper.pdf
+tex/paper/paper.synctex.gz
+tex/paper/paper.toc
