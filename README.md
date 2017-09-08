@@ -9,6 +9,6 @@ cat Run.prof
 
 
 cabal build
-time ./dist/build/MAN-AHL/MAN-AHL -run=Weighted -nSims=1000000 +RTS -s
+time ./dist/build/Proba/Proba -run=Weighted -nSims=1000000 +RTS -s
 time cabal test --show-details=streaming
 
